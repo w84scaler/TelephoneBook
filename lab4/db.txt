@@ -1,0 +1,4 @@
+1 +375333363935 Nauyokas German Yurevich Socialisticheskaya 168 1 42
+2 +375447263703 Dashkevich Nikita Victorovich Beruta 15 2 28
+3 +375123456789 Gubko Polina Bruhlina Gikalo 3 2 2
+4 +375987654321 Pashkevich Anton Bruhlin Pushkina 2 2 8
